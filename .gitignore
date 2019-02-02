@@ -1,0 +1,21 @@
+.idea/compiler.xml
+.idea/misc.xml
+.idea/workspace.xml
+gitDay3.iml
+target/
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
