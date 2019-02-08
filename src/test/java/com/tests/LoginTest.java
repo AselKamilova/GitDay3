@@ -12,6 +12,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
+// Login Test are maintained here.
+//without Page Object approach
 
 public class LoginTest {
 
